@@ -10,7 +10,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 import java.util.Locale;
-import hospital.ManagementSystem.Config.JwtService;
 
 @Service
 public class AuthService {
